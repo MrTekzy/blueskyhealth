@@ -1,0 +1,5 @@
+	ErrorDocument 400 /null.html
+	ErrorDocument 401 /null.html
+	ErrorDocument 402 /null.html
+	ErrorDocument 403 /null.html
+	ErrorDocument 404 /null.html
